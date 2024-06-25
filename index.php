@@ -67,13 +67,13 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           <h1><span>E</span>XPR<span>E</span>SS <br> R<span>E</span>NOVATION</h1>
           <br>
           <div class="header-button">
-            <a href="#services">DECOUVRIR</a>
+            <a href="#services">DECOUVRIR PLUS <i class="fa fa-chevron-down"></i></a>
           </div>
         </div>
     </section>
 
     <section id="services">
-      <h2> - SERVICES - </h2>
+      <h2>SERVICES</h2>
         <p class="services-paragraphe">Nous sommes une entreprise spécialisée dans la <span class="bicolor">rénovation</span>, offrant une gamme complète de services allant de la vente à la pose de revêtements de sols et de murs. Que vous souhaitiez donner une <span class="bicolor">nouvelle vie</span> à votre espace de vie ou transformer complètement votre intérieur, notre équipe de professionnels qualifiés est là pour vous accompagner. Avec notre expertise et notre large sélection de revêtements de <span class="bicolor">haute qualité</span>, nous sommes en mesure de répondre à tous vos besoins en matière de <span class="bicolor">rénovation</span>. Nous nous engageons à fournir un travail de qualité, à respecter les délais convenus et à créer des espaces à la fois esthétiques et fonctionnels. Faites <span class="bicolor">confiance</span> à notre entreprise de rénovation pour donner à votre maison une allure exceptionnelle.</p>
       <div class="responsive-two-column-grid">
           <div class="left">
@@ -123,7 +123,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     </section>
 
     <section id="devis">
-      <h2> - FAIRE UN DEVIS - </h2>
+      <h2>FAIRE UN DEVIS</h2>
       <form action="devis.php" class="form" method="POST">
         <div>
         <label for="nom">Nom :</label>
@@ -162,7 +162,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 </main>
 
 <footer id="contact" class="footer-08">
-<h2> - ADRESSE ET CONTACT - </h2>
+<h2>ADRESSE ET CONTACT</h2>
         
           <iframe style="margin:auto;display:block;width:100vw;height:400px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2682.381449435204!2d7.319376475934161!3d47.75465507774265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47919b69a87949c7%3A0x64cf15d0a05b553f!2s26%20Pass.%20des%20Acacias%2C%2068200%20Mulhouse!5e0!3m2!1sfr!2sfr!4v1688329468573!5m2!1sfr!2sfr" allowfullscreen="" loading="lazy" style="border:0;" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			<div class="container-fluid px-lg-5">

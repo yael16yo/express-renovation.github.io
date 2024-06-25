@@ -117,7 +117,7 @@ html {
     color: #fff;
     text-decoration: none;
     border: 1px solid #fff;
-    border-radius: 0px 15px 0px 15px;
+    border-radius: 15px;
     padding: 11px 13px 11px 13px;
     transition: 0.25s ease-in-out;
     font-weight: 600;
@@ -207,13 +207,17 @@ html {
   height: 380px;
 }
 
+.carousel-item img {
+  object-fit: cover;
+}
+
 .d-block {
   object-fit: cover !important;
   object-position: bottom !important;
 }
 
 lottie-player {
-  height: 380px;
+  height: 350px;
 }
 
 .services-paragraphe {
